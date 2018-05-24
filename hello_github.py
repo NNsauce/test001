@@ -2,3 +2,4 @@
 print('hello github')
 print('hello world')
 name = 'Lady Gaga'
+name2 = 'JR Writer'
